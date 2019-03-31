@@ -1,0 +1,31 @@
+h1  {
+transition: 1s all;
+
+background-color: lightblue;
+
+}
+
+body{
+ 
+ background-color: darkgrey;
+}
+
+nav.menu-nav ul li.btn{
+ 	list-style: none;
+ 	}
+
+nav.menu-nav ul li.btn a{
+	text-decoration: none;
+	background-color: lightblue;
+	transition: 1s all;
+}
+
+footer ul  li a{
+	text-decoration: none;
+	background-color: lightblue;
+	transition: 1s all;
+	
+	list-style-type: none;
+}
+
+
